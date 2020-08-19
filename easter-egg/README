@@ -1,7 +1,12 @@
+				
 ================================================================================
-				EASTER EGG
+		____ ____ ____ ___ ____ ____    ____ ____ ____ 
+		|___ |__| [__   |  |___ |__/    |___ | __ | __ 
+		|___ |  | ___]  |  |___ |  \    |___ |__] |__] 
+		
 ================================================================================
-Using Easter Egg
+
+			Using Easter Egg
 
 - Easter egg uses freeverb~ - to install it using deken  (pd library manager),  
 in the menu bar go to Help > Find externals. Type in freeverb and click on the 
