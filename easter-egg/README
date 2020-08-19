@@ -1,0 +1,17 @@
+================================================================================
+				                      EASTER EGG
+================================================================================
+Using Easter Egg
+
+- Easter egg uses freeverb~ - to install it using deken  (pd library manager),  
+in the menu bar go to Help > Find externals. Type in freeverb and click on the 
+proper version for your operating system.
+
+- open easter-v1.pd
+
+- Your file will be saved to the same directory as your patch
+
+For more details check my website: https://n1n4-303.github.io/tutorials
+
+PLEASE BE CAREFUL IF YOU'RE USING HEADPHONES.
+Enjoy!
