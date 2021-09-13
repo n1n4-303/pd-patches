@@ -12,13 +12,13 @@
 in the menu bar go to Help > Find externals. Type in freeverb and click on the 
 proper version for your operating system.
 
-- open easter-v1.pd
-
-- [s~ toFiler] must be at the end of your chain
+- open easter-v1.x.x.pd
 
 - Your file will be saved to the same directory as your patch
 
+- v1.0.3 introduces improved volume control
+
 For more details check my website: https://n1n4-303.github.io/tutorials
 
-PLEASE BE CAREFUL IF YOU'RE USING HEADPHONES.
+PLEASE BE CAREFUL IF YOU'RE USING HEADPHONES, PATCH SAFELY!
 Enjoy!
